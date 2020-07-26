@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#name-highlight{
+    color: crimson;
+    padding-bottom: 4%;
+    font-size: xx-large;
+}
