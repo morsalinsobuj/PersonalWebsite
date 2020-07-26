@@ -10,6 +10,34 @@ body{
 }
 #name-highlight{
     color: crimson;
-    padding-bottom: 4%;
-    font-size: xx-large;
+    padding-bottom: 2%;
+    font-size: 60px;
+    margin-top: 0px;
+}
+h3{
+    margin-bottom: 0px;
+    padding-top: 15%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.header-bg{
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h2{
+    font-size: 50px;
+    padding-top: 15%;
 }
